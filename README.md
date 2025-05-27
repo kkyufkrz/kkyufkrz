@@ -36,3 +36,10 @@ A mobile app that helps users reduce their carbon footprint with personalized re
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/irsyadazhar/)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/irsyadfkrz)
 [<img alt="Instagram" src="https://img.shields.io/badge/@Kkyufkrz-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kkyufkrz)
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadfkrz&layout=compact&theme=github_dark" alt="Top Languages" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irsyadfkrz&theme=github-dark-blue" alt="GitHub Streak" width="400"/>
