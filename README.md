@@ -20,7 +20,7 @@ I'm currently focused on combining **AI and Civic Tech** to support environmenta
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![Figma](https://img.shields.io/badge/Figma-1E2A3A?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@kkyufkrz)
 
 ---
 
