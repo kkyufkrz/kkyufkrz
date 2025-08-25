@@ -1,9 +1,9 @@
 <!-- Intro -->
 <div align="justify">
-  
-# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25" />
 
-I'm [**Azhar**](https://github.com/irsyadfkrz), an Informatics Engineering student from Indonesia passionate about solving real-world problems through Machine Learning, Web Development, and purpose-driven technology.
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F6F1&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C++I+am+Azhar)](https://git.io/typing-svg)
+
+An Informatics Engineering student from Indonesia passionate about solving real-world problems through Machine Learning, Web Development, and purpose-driven technology.
 
 I enjoy building intelligent systems and user-focused web applications, especially those that address real-world challenges. I believe technology should empower communities — whether through machine learning models for public good, responsive websites for social engagement, or decision-support tools that make services more accessible.
 
