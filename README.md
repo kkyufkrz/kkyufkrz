@@ -54,13 +54,17 @@ A mobile app that helps users reduce their carbon footprint with personalized re
 
 ---
 
-
 <!-- Github Stats -->
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadfkrz&layout=compact&theme=github_dark" alt="Top Languages" width="400"/>
+<p align="center">
+<a href="https://github.com/irsyadfkrz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irsyadfkrz&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadfkrz&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+</a>
+</p>
 
 ![snake gif](https://github.com/irsyadfkrz/irsyadfkrz/blob/output/github-snake-dark.svg)
 
