@@ -17,10 +17,13 @@ I'm currently focused on combining **AI and Civic Tech** to support environmenta
 
 <!-- Social connections -->
 <div align="justify">
+  
 ## 🚀 Featured Project
 
-[**🌱 Eco Journey** – Machine Learning Capstone (Bangkit 2024)](https://github.com/EcoJourney-Bangkit-Capstone)  
+[**🌱 Eco Journey** – Machine Learning Capstone - Academy Bangkit 2024](https://github.com/EcoJourney-Bangkit-Capstone)  
 A mobile app that helps users reduce their carbon footprint with personalized recommendations powered by ML.
+
+[![Made with TensorFlow](https://img.shields.io/badge/Made%20with-TensorFlow-orange?style=flat&logo=tensorflow)](https://www.tensorflow.org/)  [![Platform](https://img.shields.io/badge/Platform-Android-blue?style=flat&logo=android)](https://developer.android.com/studio?hl=id)
 
 </div>
 
