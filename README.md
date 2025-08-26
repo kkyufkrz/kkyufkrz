@@ -20,10 +20,21 @@ I'm currently focused on combining **AI and Civic Tech** to support environmenta
   
 ## 🚀 Featured Project
 
-[**🌱 Eco Journey** – Machine Learning Capstone - Academy Bangkit 2024](https://github.com/)  
-A mobile app that helps users reduce their carbon footprint with personalized recommendations powered by ML.
+### **🌱 Eco Journey** – Capstone Project (Academy Bangkit 2024) <!--(https://github.com/)-->
+EcoJourney is a mobile application designed to reduce waste pollution in Indonesia by providing education and raising public awareness.
+By leveraging Machine Learning, Cloud Computing, and Mobile Development, the application can classify waste types and deliver relevant article and news recommendations based on the classification results.
 
 [![Made with TensorFlow](https://img.shields.io/badge/Made%20with-TensorFlow-orange?style=flat&logo=tensorflow)](https://www.tensorflow.org/)  [![Platform](https://img.shields.io/badge/Platform-Android-blue?style=flat&logo=android)](https://developer.android.com/studio?hl=id)
+
+
+### ⚖️ LexRecon – AI-Powered Legal Research Assistant  
+LexRecon (Legal Expert RAG) is an AI-powered legal research assistant built with **FastAPI, LangChain, and Google Gemini**, designed to answer public inquiries about Indonesia’s **Information and Electronic Transactions Law (UU ITE) 2024** in an accurate, polite, and educational manner. Powered by **Retrieval-Augmented Generation (RAG)** with Gemini and enhanced by **CrossEncoder** for confidence scoring, LexRecon provides intelligent legal search, corrective prompts, and reliable context-aware answers through a modular and extendable architecture.  
+
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=flat&logo=python)](https://www.python.org/) 
+[![Made with FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) 
+[![Made with LangChain](https://img.shields.io/badge/LangChain-ff69b4?style=flat)](https://www.langchain.com/) 
+[![Made with Google Gemini](https://img.shields.io/badge/Google%20Gemini-ffffff?style=flat&logo=google)](https://developers.generativeai.google/)
+[![Made with Qdrant](https://img.shields.io/badge/Qdrant-7f00ff?style=flat)](https://qdrant.tech/)
 
 </div>
 
@@ -44,7 +55,8 @@ A mobile app that helps users reduce their carbon footprint with personalized re
 <!-- Lets Connect -->  
 ## 📫 Let's Connect!
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/)
+<!--[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />]-->
+
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kkyufkrz)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kkyufkrz)
 
@@ -65,6 +77,8 @@ A mobile app that helps users reduce their carbon footprint with personalized re
 </p>
 
 ![snake gif](https://github.com/kkyufkrz/kkyufkrz/blob/output/github-snake-dark.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kkyufkrz&style=flat-square&color=blue)
 
 </div>
 
