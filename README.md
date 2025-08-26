@@ -47,7 +47,7 @@ A mobile app that helps users reduce their carbon footprint with personalized re
 ## 📫 Let's Connect!
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/irsyadazhar/)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/irsyadfkrz)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kkyufkrz)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kkyufkrz)
 
 </div>
@@ -60,13 +60,13 @@ A mobile app that helps users reduce their carbon footprint with personalized re
 ## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/irsyadfkrz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irsyadfkrz&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadfkrz&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+<a href="https://github.com/kkyufkrz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkyufkrz&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkyufkrz&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
 </a>
 </p>
 
-![snake gif](https://github.com/irsyadfkrz/irsyadfkrz/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/kkyufkrz/kkyufkrz/blob/output/github-snake-dark.svg)
 
 </div>
 
