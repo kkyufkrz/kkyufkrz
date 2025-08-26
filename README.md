@@ -37,11 +37,9 @@ A mobile app that helps users reduce their carbon footprint with personalized re
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) 
-[![Figma](https://img.shields.io/badge/Figma-1E2A3A?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@kkyufkrz)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%233B5280?style=for-the-badge&logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-%231D3557?style=for-the-badge&logo=plotly&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white)  ![NLTK](https://img.shields.io/badge/NLTK-%23222222?style=for-the-badge&logo=nltk&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  [![Figma](https://img.shields.io/badge/Figma-1E2A3A?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@kkyufkrz)
 
 <!-- Lets Connect -->  
 ## 📫 Let's Connect!
