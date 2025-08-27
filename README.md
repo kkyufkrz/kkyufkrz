@@ -9,7 +9,7 @@ I enjoy building intelligent systems and user-focused web applications, especial
 
 > I see technology not just as code, but as a conversation between people and problems — a continuous journey of learning, building, and improving to create meaningful solutions.
 
-I'm currently focused on combining **AI and Civic Tech** to support environmental solutions. I recently completed Eco Journey, a machine learning project aimed at promoting eco-friendly habits and encouraging sustainable behavior change.
+Right now, my main focus is on Artificial Intelligence — exploring how intelligent systems can be designed not only to solve technical problems but also to create meaningful impact for communities.
 
 </div>
 
