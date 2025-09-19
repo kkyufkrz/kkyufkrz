@@ -71,9 +71,8 @@ LexRecon (Legal Expert RAG) is an AI-powered legal research assistant built with
 
 <p align="center">
 <a href="https://github.com/kkyufkrz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkyufkrz&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kkyufkrz&theme=dark&hide_border=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkyufkrz&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
-</a>
 </p>
 
 ![snake gif](https://github.com/kkyufkrz/kkyufkrz/blob/output/github-snake-dark.svg)
