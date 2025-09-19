@@ -36,6 +36,12 @@ LexRecon (Legal Expert RAG) is an AI-powered legal research assistant built with
 [![Made with Google Gemini](https://img.shields.io/badge/Google%20Gemini-ffffff?style=flat&logo=google)](https://developers.generativeai.google/)
 [![Made with Qdrant](https://img.shields.io/badge/Qdrant-7f00ff?style=flat)](https://qdrant.tech/)
 
+### 🖥️ **N1R0 – Retro-Inspired Interactive Designer Toy**
+N1R0 is a **retro PC/Mac-inspired interactive designer toy** powered by **ESP32-S3** microcontroller technology.  
+It features motion-based interactions, animated emotes, and device-to-device communication, making it both a collectible toy and a developer-friendly kit.  
+
+[![ESP32-S3](https://img.shields.io/badge/Hardware-ESP32--S3-red?style=flat&logo=espressif)](https://www.espressif.com/) [![IoT](https://img.shields.io/badge/IoT-Enabled-green?style=flat&logo=arduino)](https://www.arduino.cc/)  
+
 </div>
 
 ---
