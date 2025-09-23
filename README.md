@@ -80,6 +80,13 @@ It features motion-based interactions, animated emotes, and device-to-device com
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkyufkrz&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
+<!-- Holopin Board -->
+  <div>
+    <a href="https://holopin.io/@kkyufkrz">
+      <img src="https://holopin.me/kkyufkrz" alt="kkyufkrz's Holopin board" />
+    </a>
+  </div>
+
 ![snake gif](https://github.com/kkyufkrz/kkyufkrz/blob/output/github-snake-dark.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kkyufkrz&style=flat-square&color=blue)
