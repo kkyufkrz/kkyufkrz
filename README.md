@@ -1,7 +1,7 @@
 <!-- Intro -->
 <div align="justify">
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F6F1&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C++I+am+Azhar)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=006CA5width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C++I+am+Azhar)](https://git.io/typing-svg)
 
 An Informatics Engineering student from Indonesia passionate about solving real-world problems through Machine Learning, Web Development, and purpose-driven technology.
 
