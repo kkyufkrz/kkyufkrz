@@ -20,7 +20,7 @@ Right now, my main focus is on Artificial Intelligence — exploring how intelli
   
 ## 🚀 Featured Project
 
-### **🌱 Machine Learning Enginner at Eco Journey** – Capstone Project (Bangkit Academy 2024) <!--(https://github.com/)-->
+### **🌱 Machine Learning Engineer at Eco Journey** – Capstone Project (Bangkit Academy 2024) <!--(https://github.com/)-->
 EcoJourney is a mobile application designed to reduce waste pollution in Indonesia by providing education and raising public awareness.
 By leveraging Machine Learning, Cloud Computing, and Mobile Development, the application can classify waste types and deliver relevant article and news recommendations based on the classification results.
 
@@ -36,7 +36,7 @@ LexRecon (Legal Expert RAG) is an AI-powered legal research assistant built with
 [![Made with Google Gemini](https://img.shields.io/badge/Google%20Gemini-ffffff?style=flat&logo=google)](https://developers.generativeai.google/)
 [![Made with Qdrant](https://img.shields.io/badge/Qdrant-7f00ff?style=flat)](https://qdrant.tech/)
 
-### 🖥️ **N1R0 – Retro-Inspired Interactive Designer Toy**
+### 🖥️ **Team Lead N1R0 – Retro-Inspired Interactive Designer Toy**
 N1R0 is a **retro PC/Mac-inspired interactive designer toy** powered by **ESP32-S3** microcontroller technology.  
 It features motion-based interactions, animated emotes, and device-to-device communication, making it both a collectible toy and a developer-friendly kit.  
 
@@ -73,12 +73,13 @@ It features motion-based interactions, animated emotes, and device-to-device com
 <!-- Github Stats -->
 <div align="center">
 
-## 📊 GitHub Stats
-
+## 📊 Achivement 
+<!--
 <p align="center">
 <a href="https://github.com/kkyufkrz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkyufkrz&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
 </p>
+-->
 
 <!-- Holopin Board -->
   <div>
