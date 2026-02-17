@@ -20,14 +20,14 @@ Right now, my main focus is on Artificial Intelligence — exploring how intelli
   
 ## 🚀 Featured Project
 
-### **🌱 Eco Journey** – Capstone Project (Academy Bangkit 2024) <!--(https://github.com/)-->
+### **🌱 Machine Learning Enginner at Eco Journey** – Capstone Project (Bangkit Academy 2024) <!--(https://github.com/)-->
 EcoJourney is a mobile application designed to reduce waste pollution in Indonesia by providing education and raising public awareness.
 By leveraging Machine Learning, Cloud Computing, and Mobile Development, the application can classify waste types and deliver relevant article and news recommendations based on the classification results.
 
 [![Made with TensorFlow](https://img.shields.io/badge/Made%20with-TensorFlow-orange?style=flat&logo=tensorflow)](https://www.tensorflow.org/)  [![Platform](https://img.shields.io/badge/Platform-Android-blue?style=flat&logo=android)](https://developer.android.com/studio?hl=id)
 
 
-### ⚖️ LexRecon – AI-Powered Legal Research Assistant  
+### ⚖️ Co-Founder of LexRecon – AI-Powered Legal Research Assistant  
 LexRecon (Legal Expert RAG) is an AI-powered legal research assistant built with **FastAPI, LangChain, and Google Gemini**, designed to answer public inquiries about Indonesia’s **Information and Electronic Transactions Law (UU ITE) 2024** in an accurate, polite, and educational manner. Powered by **Retrieval-Augmented Generation (RAG)** with Gemini and enhanced by **CrossEncoder** for confidence scoring, LexRecon provides intelligent legal search, corrective prompts, and reliable context-aware answers through a modular and extendable architecture.  
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=flat&logo=python)](https://www.python.org/) 
